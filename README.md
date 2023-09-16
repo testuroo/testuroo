@@ -1,8 +1,14 @@
 # About me
 Hi, I'm tetsu. 
 
+<details>
+<summary>My learning languages</summary>
+
+
 | Start | Languages |
 |-----:|-----------|
-|     3| None yet　　　　|
+|     1| Swift 　　　　  |
 |     2| Javascript|
-|     1| Swift     |
+|     3| None yet  |
+
+</details>
